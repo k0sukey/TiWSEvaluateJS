@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1C936F2-2AA1-47B1-BA58-F14374D46D6C</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABB939127996C66F7E852A780552ADEEF03C6B13</key>
+		<string>github.com:square/SocketRocket.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABB939127996C66F7E852A780552ADEEF03C6B13</key>
+		<string>SocketRocket/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:square/SocketRocket.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABB939127996C66F7E852A780552ADEEF03C6B13</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABB939127996C66F7E852A780552ADEEF03C6B13</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocketRocket</string>
+		</dict>
+	</array>
+</dict>
+</plist>

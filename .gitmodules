@@ -1,0 +1,3 @@
+[submodule "iphone/SocketRocket"]
+	path = iphone/SocketRocket
+	url = git@github.com:square/SocketRocket.git

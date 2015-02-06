@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: TiWSEvaluateJS
+author: Kosuke Isobe
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiWSEvaluateJS
+moduleid: be.k0suke.tiwsevaluatejs
+guid: ce9a1ceb-0be4-49bf-9d2c-04d36dca3861
+platform: iphone
+minsdk: 3.5.0.GA
