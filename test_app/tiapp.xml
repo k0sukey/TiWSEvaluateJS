@@ -10,9 +10,9 @@
 	<icon>appicon.png</icon>
 	<fullscreen>false</fullscreen>
 	<navbar-hidden>false</navbar-hidden>
-	<analytics>true</analytics>
+	<analytics>false</analytics>
 	<guid>3309040d-ceb6-481e-b251-0d8fbcc08cba</guid>
-	<property name="evaluate-host" type="string">ws://localhost:8888</property>
+	<property name="evaluate-host" type="string">ws://192.168.3.5:8888</property>
 	<property name="ti.ui.defaultunit" type="string">dp</property>
 	<ios>
 		<plist>
@@ -52,9 +52,10 @@
 	</mobileweb>
 	<modules>
 		<module platform="iphone">be.k0suke.tiwsevaluatejs</module>
+		<module platform="android">be.k0suke.tiwsevaluatejs</module>
 	</modules>
 	<deployment-targets>
-		<target device="android">false</target>
+		<target device="android">true</target>
 		<target device="blackberry">false</target>
 		<target device="ipad">true</target>
 		<target device="iphone">true</target>

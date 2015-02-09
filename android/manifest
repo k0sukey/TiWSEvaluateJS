@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: TiWSEvaluateJS
+author: Kosuke Isobe
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiWSEvaluateJS
+moduleid: be.k0suke.tiwsevaluatejs
+guid: fe2dd8ef-9787-4ff0-9bc8-7707eba22cbe
+platform: android
+minsdk: 3.5.0.GA
