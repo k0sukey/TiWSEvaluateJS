@@ -1,4 +1,4 @@
-## for [ti-stats-hook](https://github.com/k0sukey/ti-stats-hook)
+## for [ti-stats-hook](https://github.com/k0sukey/ti-stats-hook) and [YaTriple](https://github.com/k0sukey/YaTriple)
 
 **Do not use for product.**
 
